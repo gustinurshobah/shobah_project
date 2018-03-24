@@ -32,6 +32,10 @@ public class sepeda_motorAksi {
         suzuki.warna="merah hitam";
         suzuki.harga="27500000";
         suzuki.nopol="DA 6323 KAB";
+        
+        honda.cetakinfo();
+        yamaha.cetakinfo();
+        suzuki.cetakinfo();
     }
     
 }
