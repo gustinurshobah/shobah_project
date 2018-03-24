@@ -11,7 +11,9 @@ package shobah_project;
  */
 public class sepeda_motorAksi {
     public static void main(String[] args) {
-        
+        sepeda_motor honda = new sepeda_motor();
+        sepeda_motor yamaha = new sepeda_motor();
+        sepeda_motor suzuki = new sepeda_motor();
     }
     
 }
