@@ -10,5 +10,18 @@ package shobah_project;
  * @author ASUS
  */
 public class sepeda_motor {
+    String type;
+    String warna;
+    String merk;
+    String harga;
+    String nopol;
     
+    void cetakinfo(){
+        System.out.println("type  :"+type);
+        System.out.println("warna :"+warna);
+        System.out.println("merk  :"+merk);
+        System.out.println("harga :"+harga);
+        System.out.println("nopol :"+nopol);
+        
+    }
 }
